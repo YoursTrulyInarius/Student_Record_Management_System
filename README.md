@@ -1,4 +1,4 @@
-# Record Management System
+# Student Record Management System
 
 A sleek, mobile-first desktop application for managing personal or organization records. Developed using Python's Tkinter framework and SQLite for local data persistence.
 
